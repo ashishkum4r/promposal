@@ -127,8 +127,10 @@ function goToNext() {
                 <h1>YAYYYYY 💖</h1>
 
                 <p>
-                    You just made my day 🥰 <br>
-                    Best decision ever.<br>
+                    'then god said, <br>
+                    "Go with Ashish"'<br>
+                            - PROM 20:26<br>
+                    <br>
                     (click on the cat hihi 🤭)
                 </p>
             `;
